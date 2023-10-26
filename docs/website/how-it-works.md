@@ -96,7 +96,7 @@ Whenever Scratch executes any block, it has to do a lot of things:
 
 The interpreter overhead is added on top of the overhead of JavaScript itself. As this code involves many dynamic types, it can be hard for the JavaScript JIT to optimize it.
 
-TurboWarp's compiler removes all of that overhead by converting scripts directly to JavaScript functions. For example, the above script becomes:
+MirrorWarp's compiler removes all of that overhead by converting scripts directly to JavaScript functions. For example, the above script becomes:
 
 ```js
 const myVariable = stage.variables["`jEk@4|i[#Fk?(8x)AV.-my variable"];

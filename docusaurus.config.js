@@ -1,16 +1,16 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'TurboWarp Documentation',
-  url: 'https://docs.turbowarp.org',
+  title: 'MirrorWarp Documentation',
+  url: 'https://docs.mirrorwarp.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  organizationName: 'TurboWarp',
+  organizationName: 'MirrorWarp',
   projectName: 'docs',
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'TurboWarp Documentation',
+      title: 'MirrorWarp Documentation',
       items: [
         {
           href: '/packager/',
@@ -23,12 +23,12 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://turbowarp.org/',
-          label: 'TurboWarp',
+          href: 'https://mirrorwarp.org/',
+          label: 'MirrorWarp',
           position: 'right'
         },
         {
-          href: 'https://github.com/TurboWarp',
+          href: 'https://github.com/MirrorWarp',
           label: 'GitHub',
           position: 'right',
         },
@@ -38,7 +38,7 @@ module.exports = {
       // This is all supposed to be public
       appId: 'HORQ9E5CCA',
       apiKey: 'c3873ce4208edb896a31bb3e7c2cbdad',
-      indexName: 'turbowarp'
+      indexName: 'mirrorwarp'
     },
     colorMode: {
       respectPrefersColorScheme: true,
@@ -55,7 +55,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/TurboWarp/docs/edit/master/',
+          editUrl: 'https://github.com/MirrorWarp/docs/edit/master/',
           breadcrumbs: false,
         },
         theme: {

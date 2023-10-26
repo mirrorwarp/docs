@@ -24,7 +24,7 @@ module.exports = {
     'website/how-it-works',
     'website/javascript',
     'website/return',
-    'website/turbowarp-blocks',
+    'website/mirrorwarp-blocks',
     'website/translate',
     'website/url-parameters',
     'website/scratch-accounts',

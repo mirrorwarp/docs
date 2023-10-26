@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Cloud Variables
 
-TurboWarp has its own cloud variable server independent of Scratch.
+MirrorWarp has its own cloud variable server independent of Scratch.
 
 Some things to keep in mind:
 

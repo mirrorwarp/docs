@@ -1,16 +1,16 @@
-# TurboWarp Docs
+# MirrorWarp Docs
 
-https://docs.turbowarp.org/
+https://docs.mirrorwarp.org/
 
 This repository contains documentation for TurboWarp.
 
 ## Writing content
 
-If you found a typo or have a suggestion to improve the pages, the easiest way to get it resolved is to post about it on the Scratch profile https://scratch.mit.edu/users/GarboMuffin/#comments or in GitHub issues https://github.com/TurboWarp/docs/issues/new. Minor fixes get resolved very quickly usually.
+If you found a typo or have a suggestion to improve the pages, the easiest way to get it resolved is to post about it on the Scratch profile https://scratch.mit.edu/users/GarboMuffin/#comments or in GitHub issues https://github.com/MirrorWarp/docs/issues/new. Minor fixes get resolved very quickly usually.
 
 Alternatively, you can submit a pull request yourself containing a fix. The easiest way to edit a page is:
 
-1. Open the website, https://docs.turbowarp.org/
+1. Open the website, https://docs.mirrorwarp.org/
 2. Find the page you want to edit
 3. Click "Edit this page" at the bottom
 4. Sign in with a GitHub account

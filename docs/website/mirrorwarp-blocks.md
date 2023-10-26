@@ -3,13 +3,13 @@ slug: /blocks
 hide_table_of_contents: true
 ---
 
-# TurboWarp Blocks
+# MirrorWarp Blocks
 
-TurboWarp has a section of blocks that allows you to use certain features previously not accessible to Scratch projects.
+MirrorWarp has a section of blocks that allows you to use certain features previously not accessible to Scratch projects.
 
-NEW: TurboWarp now supports unsandboxed extensions which add new blocks! https://extensions.turbowarp.org/
+NEW: MirrorWarp now supports unsandboxed extensions which add new blocks! https://extensions.mirrorwarp.org/
 
-## is compiled? and is TurboWarp? {#is-compiled}
+## is compiled? and is MirrorWarp? {#is-compiled}
 
 ![is compiled?](./assets/is-compiled.svg)
 
@@ -18,7 +18,7 @@ See https://scratch.mit.edu/projects/414716080/
 These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
 
 :::warning
-Every block beyond this warning is **incompatible** with Scratch. Projects that use them **can not** be uploaded to the Scratch website. If you don't use any TurboWarp-exclusive blocks, then there should be no issue with making your project in TurboWarp and uploading it to Scratch.
+Every block beyond this warning is **incompatible** with Scratch. Projects that use them **can not** be uploaded to the Scratch website. If you don't use any MirrorWarp-exclusive blocks, then there should be no issue with making your project in MirrorWarp and uploading it to Scratch.
 :::
 
 ## last key pressed {#last-key-pressed}
